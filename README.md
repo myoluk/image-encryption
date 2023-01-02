@@ -1,8 +1,8 @@
 ## Image Encryption/Decryption Project for Computer Graphics
 
-![stars](https://img.shields.io/github/stars/myoluk/Computer-Graphics)
-![forks](https://img.shields.io/github/forks/myoluk/Computer-Graphics)
-![licence](https://img.shields.io/github/license/myoluk/Computer-Graphics)
+![stars](https://img.shields.io/github/stars/myoluk/computer-graphics)
+![forks](https://img.shields.io/github/forks/myoluk/computer-graphics)
+![licence](https://img.shields.io/github/license/myoluk/computer-graphics)
 
 The encryption algorithm was developed by me. 
 

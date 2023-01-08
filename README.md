@@ -4,7 +4,7 @@
 ![forks](https://img.shields.io/github/forks/myoluk/computer-graphics)
 ![licence](https://img.shields.io/github/license/myoluk/computer-graphics)
 
-The encryption algorithm was developed by me. 
+_The encryption algorithm was developed by me._
 
 > It is for educational purposes only.
 

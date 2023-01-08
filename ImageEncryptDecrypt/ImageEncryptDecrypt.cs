@@ -14,14 +14,13 @@ using System.Windows.Forms;
  * Midterm Project
  ****************
  * This program makes encrypted images with self alogrithm
- * Images can encryp with a key or default key
+ * Images can encrypt with a key or default key
  * Images can be RGB, grayscale etc.
  * ----
  * There are 2 modes available easy/fast mode (default) and hard/slow mode
  * Easy/fast mode uses lockBits and unlockBits 
  * Hard/slow mode uses getPixel and setPixel
- * Recommended method is hard/slow mode
- * Because it makes more complex algorithm
+ * Choose hard/slow mode for more complex encryption algorithm
  ****************
  * Author : myoluk
  * Date : 12.06.2020 (6 December 2020)

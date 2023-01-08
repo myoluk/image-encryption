@@ -19,9 +19,9 @@ _The encryption algorithm was developed by me._
 - Images can be RGB, grayscale etc.
 
 ### Modes
-There are 2 modes available `easy/fast` mode (default) and `hard/slow` mode
+There are 2 modes available **easy/fast** mode (default) and **hard/slow** mode
 
-- `Easy/fast` mode uses lockBits and **unlockBits**
-- `Hard/slow` mode uses getPixel and **setPixel**
+- **Easy/fast** mode uses `lockBits` and `unlockBits`
+- **Hard/slow** mode uses `getPixel` and `setPixel`
 
-_Choose `hard/slow` mode for more complex encryption algorithm._
+_Choose **hard/slow** mode for more complex encryption algorithm._

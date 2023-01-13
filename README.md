@@ -5,9 +5,9 @@
 ![licence](https://img.shields.io/github/license/myoluk/computer-graphics)
 ![last-commit](https://img.shields.io/github/last-commit/myoluk/computer-graphics)
 
-:star: _The encryption algorithm was developed by me._
+💻 _The encryption algorithm was developed by me._
 
-> It is for educational purposes only.
+⭐ _It is for educational purposes only._
 
 ![Image Encrypt/Decrypt](images/sample.jpg)
 

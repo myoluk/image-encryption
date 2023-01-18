@@ -1,4 +1,4 @@
-## Image Encryption/Decryption Project for Computer Graphics
+# Image Encryption/Decryption Project for Computer Graphics
 
 ![stars](https://img.shields.io/github/stars/myoluk/computer-graphics)
 ![forks](https://img.shields.io/github/forks/myoluk/computer-graphics)
@@ -11,7 +11,7 @@
 
 ![Image Encrypt/Decrypt](images/sample.jpg)
 
-### About
+## About
 
 - This program makes encrypted images with self alogrithm
 
@@ -19,7 +19,7 @@
 
 - Images can be RGB, grayscale etc.
 
-### Modes
+## Modes
 There are 2 modes available **easy/fast** mode (default) and **hard/slow** mode
 
 - **Easy/fast** mode uses `lockBits` and `unlockBits`

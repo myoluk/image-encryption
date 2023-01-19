@@ -57,12 +57,6 @@ namespace ImageEncryptDecrypt
         // keyAsciiB refers blue colors's index
         int _keyAsciiIndexR = 0, _keyAsciiIndexG = 0, _keyAsciiIndexB = 0;
 
-        private void MST_ImageEncryptorDecryptor_Load(object sender, EventArgs e)
-        {
-            // When form load
-
-        }
-
         // Open image
         void OpenImage()
         {

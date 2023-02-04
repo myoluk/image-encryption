@@ -1,8 +1,8 @@
-<div style="text align: center;">
+<p align="center">
   <h1>
     Image Encryption/Decryption Project for Computer Graphics with C#
   </h1>
-</div>
+</p>
 
 ![stars](https://img.shields.io/github/stars/myoluk/computer-graphics)
 ![forks](https://img.shields.io/github/forks/myoluk/computer-graphics)

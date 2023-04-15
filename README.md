@@ -7,7 +7,7 @@
 
 💻 _The encryption algorithm developed by me_
 
-⭐ _It is for educational purposes only_
+⭐ _Educational purposes only_
 
 ![Image Encrypt/Decrypt](images/sample.jpg)
 

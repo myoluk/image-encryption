@@ -1,11 +1,11 @@
-# Image Encryption/Decryption Project
+# Image Encryption/Decryption Project with C#
 
 ![stars](https://img.shields.io/github/stars/myoluk/computer-graphics)
 ![forks](https://img.shields.io/github/forks/myoluk/computer-graphics)
 ![licence](https://img.shields.io/github/license/myoluk/computer-graphics)
 ![last-commit](https://img.shields.io/github/last-commit/myoluk/computer-graphics)
 
-💻 _The encryption algorithm developed by me_
+💻 _The encryption algorithm was developed by me_
 
 ⭐ _Educational purposes only_
 

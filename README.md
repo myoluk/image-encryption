@@ -15,7 +15,7 @@
 
 - Encrypts and decrypts images with custom algorithm
 
-- Images can encrypt with default key or user defined key
+- Images can encrypt with default or user defined key
 
 - Images can be RGB, grayscale etc.
 

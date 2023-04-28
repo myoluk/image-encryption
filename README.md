@@ -13,11 +13,11 @@
 
 ## About the Project
 
-- Encrypts and decrypts images with custom algorithm
+- [x] Encrypts and decrypts images with custom algorithm
 
-- Images can encrypt with default or user defined key
+- [x] Images can encrypt with default or user defined key
 
-- Images can be RGB, grayscale etc.
+- [x] Images can be RGB, grayscale etc.
 
 ## Modes
 There are 2 modes available **easy/fast** mode (default) and **hard/slow** mode

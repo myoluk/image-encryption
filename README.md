@@ -24,6 +24,6 @@ There are 2 modes available **easy/fast** mode (default) and **hard/slow** mode
 
 :white_check_mark: **Easy/fast** mode uses `lockBits` and `unlockBits`
 
-:white_check_mark: - **Hard/slow** mode uses `getPixel` and `setPixel`
+:white_check_mark: **Hard/slow** mode uses `getPixel` and `setPixel`
 
 👉 _Choose **hard/slow** mode for more complex encryption algorithm_

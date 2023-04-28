@@ -11,7 +11,7 @@
 
 ![Image Encrypt/Decrypt](images/sample.jpg)
 
-## About
+## About the Project
 
 - Encrypts and decrypts images with custom algorithm
 

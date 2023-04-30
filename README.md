@@ -9,8 +9,6 @@
 
 ⭐ _Educational purposes only_
 
-## About the Project
-
 ![Image Encrypt/Decrypt](images/sample.jpg)
 
 - [x] Encrypts and decrypts images with custom algorithm

@@ -9,13 +9,13 @@
 
 ⭐ _Educational purposes only_
 
-![Image Encrypt/Decrypt](images/sample.jpg)
-
 - [x] Encrypts and decrypts images with custom algorithm
 
 - [x] Images can encrypt with default or user defined key
 
 - [x] Images can be RGB, grayscale etc.
+
+![Image Encrypt/Decrypt](images/sample.jpg)
 
 ## Modes
 There are 2 modes available **easy/fast** mode (default) and **hard/slow** mode

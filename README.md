@@ -9,6 +9,8 @@
 
 ⭐ _Educational purposes only_
 
+## About
+
 - [x] Encrypts and decrypts images with custom algorithm
 
 - [x] Images can encrypt with default or user defined key

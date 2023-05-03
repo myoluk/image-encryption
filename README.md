@@ -15,7 +15,7 @@
 
 - [x] Images can encrypt with default or user defined key
 
-- [x] Images can be RGB, grayscale etc
+- [x] Images can be RGB, grayscale etc.
 
 ![Image Encrypt/Decrypt](images/sample.jpg)
 

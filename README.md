@@ -1,4 +1,4 @@
-# Image Encryption/Decryption Project with C#
+# Image Encryption and Decryption C# Project
 
 ![stars](https://img.shields.io/github/stars/myoluk/computer-graphics)
 ![forks](https://img.shields.io/github/forks/myoluk/computer-graphics)

@@ -60,7 +60,6 @@ namespace ImageEncryptDecrypt
         // Open image
         void OpenImage()
         {
-            // Open an image to encryption
             // Open an image to decryption
             FileDialog imgChooser = new OpenFileDialog();
             imgChooser.Filter = "Image Files (*.jpg) | *.jpg";
@@ -126,7 +125,6 @@ namespace ImageEncryptDecrypt
             // Hide password if checked
             if (cbxHide.Checked == true)
                 tbxPassword.UseSystemPasswordChar = true;
-            // Show password otherwise
             else
                 tbxPassword.UseSystemPasswordChar = false;
         }
